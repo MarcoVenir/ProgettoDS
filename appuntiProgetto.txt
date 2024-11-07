@@ -1,0 +1,50 @@
+
+Presentare tre tipologie di giocatore: noob, pro, hacker::
+noob assegna le statistiche a caso, pro le assegna seguendo lo scaling, hacker ha tutto al massimo.
+
+
+==============PARTE 1==============
+domande:: 
+Focus Principale::
+
+1. Quali sono le armi piú forti del gioco in base a come potenzio il personaggio?
+
+2. Che tipo di infusioni rendono le armi piú potenti? Ci sono infusioni pessime a prescindere? 
+
+3. Ci sono armi che rimangono a prescindere dall'infusione o dalle statistiche? 
+## creo tabella in cui ho arma infusione1, infusione2, infusione3.... con come valori i danni, poi ho un valore dannoMAX con il valore piú alto tra le infusioni e il tipo es:: (1000, fuoco).  
+
+4. Quanto danno potenziale perdo assegnando le statistiche a caso? 
+
+==============PARTE 2==============
+Calcolare il danno totale massimo con statistiche al massimo per ogni arma
+
+Calcolare il danno totale con un limite di 100 statistiche per arma distribuendole in base allo scaling 
+
+Calcolare il danno totale con un limite di n statistiche distribuite casualmente 
+
+==============PARTE 3============== 
+confrontare i 3 risultati per : 
+
+-quali sono le armi che fanno piú danno? Quale arma in generale prevale? 
+
+-che infusione prevale e quali sono le differenze con la stessa infusione negli altri grafici 
+
+-esempi dell'arma migliore di un caso negli altri contesti
+
+==============PARTE 4==============
+Risposte:: 
+
+1. le armi piú forti sono:: per le tre prospettive 
+
+2. Il tipo di infusione che fa piú danno, quello con piú varietà, quello che prevale in base alle statistiche…
+   Invece il tipo y in generale é sempre molto scarso 
+
+3. confronto colonna del danno nella tabella pro e noob e vedo la differenza dei danni. 
+
+==============PARTE 5==============
+conclusione:: quanto é importante saper assegnare le caratteristiche in dark souls?? 
+
+confronto tra le build casuali… a livello di zoom e di macrocambiamenti, quanto cambia effettivamente il danno delle armi…
+
+confronto tra le prime 5 delle build casuali medie e le prime 5 delle top build.
